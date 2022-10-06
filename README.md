@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bridge98
+- 👋 Hi, I’m Lorenzo Di Cola
 - 👀 I’m interested in cloud development and search engines systems
 
 <!---
