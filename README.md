@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lorenzo Di Cola
-- 👀 I’m interested in cloud arch, node.js, spring and search engines systems
+- 👀 I’m interested in cloud arch, node.js, spring/spring boot and search engines systems
 
 <!---
 Bridge98/Bridge98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
