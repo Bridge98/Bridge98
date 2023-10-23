@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lorenzo Di Cola
-- 👀 I’m interested in cloud arch, microservices, node.js, golang, spring boot and search engines
+- 👀 Interested in: node.js, golang, spring boot and search engines
 - R&D Backend Engineer at Retex
 
 <!---
