@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lorenzo Di Cola
 - 👀 Interested in: node.js, golang, spring boot and search engines
-- R&D Backend Engineer at Retex
+- R&D Software Engineer at Retex
 
 <!---
 Bridge98/Bridge98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
