@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lorenzo Di Cola
-- 👀 Interested in modern and fast solutions for everyday problems
+- 👀 Interested in modern and fast solutions for everyday problems (not only coding but also clusteting, search engines etc.)
 - R&D Software Engineer at Retex
 
 <!---
