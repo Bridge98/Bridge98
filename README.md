@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lorenzo Di Cola
-- 👀 Interested in: node.js, golang, spring boot and search engines
+- 👀 Interested in modern and fast solutions for everyday problems
 - R&D Software Engineer at Retex
 
 <!---
